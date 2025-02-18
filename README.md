@@ -20,9 +20,9 @@ The ns3 command will be added to the PATH, but for now just go to */usr/ns3/ns-3
 
 Just copy one of the examples to the scratch directory and build it and run it:
 
-*cd /usr/ns3/ns-3.43*
-*cp examples/udp-client-server/udp-client-server.cc scratch/*
-*./ns3 run scratch/udp-client-server*
+- *cd /usr/ns3/ns-3.43*
+- *cp examples/udp-client-server/udp-client-server.cc scratch/*
+- *./ns3 run scratch/udp-client-server*
 
 ## Another note:
 
